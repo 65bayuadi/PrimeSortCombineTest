@@ -71,7 +71,5 @@ fabric.properties
 
 .idea/
 pom.xml
-src/
 target/
 testKitabisa.iml
-testcoverage/
